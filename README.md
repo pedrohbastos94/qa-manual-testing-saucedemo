@@ -15,6 +15,14 @@ O SauceDemo simula um sistema de **e-commerce**, permitindo testar fluxos comple
 
 ---
 
+## Project Files
+
+- Test Scenarios
+- Test Cases
+- Test Execution Report with Evidence
+
+---
+
 # 🎯 Objetivo do projeto
 
 Validar as principais funcionalidades do sistema garantindo que os requisitos funcionais sejam atendidos.
